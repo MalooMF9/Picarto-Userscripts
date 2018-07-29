@@ -6,9 +6,9 @@ function(){
   
   var b = document.createElement("script");
   b.src=path+"Picarto_AdminHighlight.user.js";
-  document.head.appendChild(a);
+  document.head.appendChild(b);
   
   var c = document.createElement("script");
   c.src=path+"Picarto_Narrowed.user.js";
-  document.head.appendChild(a);
+  document.head.appendChild(c);
 })();
