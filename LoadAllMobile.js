@@ -1,4 +1,4 @@
-function(){
+(function(){
   var path = "https://rawgit.com/MalooMF9/Picarto-Userscripts/master/"; 
   var a=document.createElement("script");
   a.src=path+"Picarto_Chat_Improvements.user.js";
